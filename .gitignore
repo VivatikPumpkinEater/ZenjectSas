@@ -1,0 +1,13 @@
+.idea
+Library
+Logs
+Packages/com.*
+obj
+.vscode
+*.csproj
+*.sln
+.idea
+Temp
+UserSettings
+.DS_Store
+ServerData
